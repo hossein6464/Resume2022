@@ -1,0 +1,189 @@
+body {
+    margin-top: 50px;
+}
+
+#main-container{
+    width: 1400px;
+    height: 1500px;
+    margin: auto;
+    border: 4px solid black;
+    box-shadow: 10px 10px 5px grey;
+}
+
+#side-bar {
+    width: 400px;
+    height: 100%;
+    float: left;
+    background: radial-gradient( #063970, #262626) ;
+}
+#main {
+    width: 1000px;
+    height: 100%;
+    float: left;
+    background: whitesmoke;
+}
+#profile-pic {
+    width: 50%;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 100px;
+}
+.side-bar-containers {
+    margin-left: 80px;
+}
+.side-bar-title-container {
+    margin-top:40px;
+}
+.side-bar-titles {
+    color: aliceblue;
+    font-family: "Arial", sans-serif;
+    font-size: x-large;
+    margin-bottom: 20px;
+    border-bottom: 2px solid gray;
+}
+.container-icon-text {
+
+}
+.detail-text-inside-navbar {
+    color: darkgray;
+    font-size: medium;
+    font-family: "Arial", sans-serif;
+    padding-top: 0;
+    margin-left: 5px;
+    margin-top: 0;
+    float: left;
+}
+.icons {
+    color: aliceblue;
+    float: left;
+}
+.clear-all{
+    clear: both;
+}
+.clear {
+    float: none;
+}
+.container-detail-text-inside-navbar{
+
+}
+.title-detail-text-inside-navbar {
+    color: aliceblue;
+    font-family: "Arial", sans-serif;
+    font-size: large;
+    margin-bottom: 0;
+
+}
+.detail-text-inside-navbar {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#main-top {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+#name{
+    margin-bottom: 0;
+    font-size: 50px;
+    color: #063970;
+    font-family: "Arial", sans-serif;
+}
+#my-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #063970;
+}
+#myself-description {
+    margin-bottom: 80px;
+    margin-top: 20px;
+    width:800px
+}
+#main-middle {
+    margin-top: 50px;
+    margin-left: 100px;
+    width:800px;
+}
+#work-experience {
+    font-size: 30px;
+    color: #063970;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+
+    border-bottom: 1px solid #063970 ;
+}
+.experiences {
+    border-left: 1px solid #063970;
+    padding-left: 30px;
+    margin-bottom: 50px;
+    margin-top:0;
+}
+.experience-title {
+    margin-bottom: 0;
+    font-size: 20px;
+    font-family: "Arial", sans-serif;
+}
+.experience-date {
+    margin-top: 0;
+    font-size: 14px;
+    font-family: "Arial", monospace;
+}
+.experience-detail {
+    font-size: 14px;
+    font-family: "Arial", monospace;
+
+}
+#main-footer {
+    margin-top: 50px;
+    margin-left: 100px;
+    width:800px;
+}
+#references {
+    font-size: 30px;
+    color: #063970;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+    border-bottom: 1px solid #063970 ;
+    margin-bottom: 20px;
+}
+.container-references {
+
+}
+#first-reference {
+    float: left;
+    margin: auto;
+
+}
+#second-reference {
+    float: right;
+    margin: auto;
+
+}
+#third-reference {
+    float: right;
+    margin: auto;
+}
+.name-reference {
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 20px;
+    font-family: "Arial", sans-serif;
+}
+.position-reference {
+    margin-bottom: 0;
+    margin-top: 0;
+
+    font-family: "Arial", sans-serif;
+}
+.reference-phone {
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: "Arial", sans-serif;
+}
+.reference-email {
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: "Arial", sans-serif;
+}
